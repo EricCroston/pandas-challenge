@@ -1,7 +1,7 @@
 # pandas-challenge
 
 code for this analysis is in the "PyCitySchools" folder, file name "PyCitySchools.ipynb"
-written report is m the "Written Analysis" folder, file name "Module_4_Challenge-Written_Report.docx"
+written report is in the "Written Analysis" folder, file name "Module_4_Challenge-Written_Report.docx"
 
 Module 4 Challenge
 Due Thursday by 11:59pm Points 100 Submitting a text entry box or a website url
